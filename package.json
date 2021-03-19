@@ -1,0 +1,26 @@
+{
+  "name": "koalla_holla",
+  "version": "1.0.0",
+  "description": "This must stop: --------------- ![Nevar again](https://i.makeagif.com/media/8-22-2014/GO_DT4.gif)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/server.js"
+  },
+  "author": "@devjana",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.5.1",
+    "sweetalert": "^2.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatthewHeinrich/koala-holla-jens.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/MatthewHeinrich/koala-holla-jens/issues"
+  },
+  "homepage": "https://github.com/MatthewHeinrich/koala-holla-jens#readme"
+}

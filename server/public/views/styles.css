@@ -1,0 +1,63 @@
+body{
+    width: 92%;
+    margin-left: 4%;
+    margin-right: 4%;
+    margin-top: 4%;
+    border-style: solid;
+    border-width: 3px;
+}
+
+header {
+    background-color: #0091ea;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0;
+    padding: 10px 0;
+}
+
+header img {
+    float: left;
+    width: 12%;
+    margin: 0 10px;
+}
+
+h1{
+    margin: 0;
+}
+
+table {
+    border-collapse: collapse;
+    font-size: 16px;
+    padding: 1.5px;
+    text-align: center;
+    width: 100%;
+}
+
+thead {
+    background-color: #f1f1f1;
+    font-weight: 600;
+}
+
+table th, table td {
+    padding: 10px 20px;
+}
+
+tbody tr {
+    border-bottom: .5px solid #aaaaaa;
+    background-color: #ffffff;
+}
+
+tbody tr:nth-of-type(even){
+    background-color: #f1f1f1;
+}
+
+tbody tr:last-of-type {
+    border-bottom: 2px solid #f1f1f1;
+}
+
+#addKoala{
+    padding-left: 2em;
+}
+
+#allKoalas{
+    padding-left: 1em;
+}
